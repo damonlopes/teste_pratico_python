@@ -5,7 +5,7 @@ URL_API_FLIGHTS = "https://api.aviationstack.com/v1/flights"
 
 def get_all_flights(params:dict) -> list[dict]:
     
-    api_result = requests.get(URL_API_FLIGHTS, params)
+    api_result = requests.get(URL_API_FLIGHTS, params)       
     api_response = api_result.json()
 
     obj_pagination = api_response["pagination"]

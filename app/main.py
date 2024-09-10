@@ -5,10 +5,13 @@ import math
 import os
 
 from app.utils import external_requests
+from app.db import postgres
 
 load_dotenv()
 
 app = Flask(__name__)
+
+postgres.PostgresDB().conn_close()
 
 list_status = ["scheduled", "active", "landed", "cancelled", "incident", "diverted"]
 
@@ -54,21 +57,3 @@ def get_info_flights():
     all_flights += external_requests.get_all_flights(arr_params)
 
     return f"Teve {len(all_flights)} vôos registrados"
-
-    api_result = requests.get('https://api.aviationstack.com/v1/flights', params)
-
-    api_response = api_result.json()
-
-    obj_pagination = api_response["pagination"]
-
-    return f"São necessários {math.ceil(obj_pagination["total"]/100)} chamadas de API para buscar todos os vôos com esses parâmetros"
-
-
-    # teste = request.args.get("teste")
-    # if teste is not None:
-    #     return teste
-    # else:
-    #     return os.environ["CHAVE_API"]
-
-# if __name__ == "__main__":
-#     app.run(host = "0.0.0.0", port = 5000, debug = True)
