@@ -15,15 +15,15 @@ postgres.PostgresDB().conn_close()
 
 list_status = ["scheduled", "active", "landed", "cancelled", "incident", "diverted"]
 
-@app.route('/')
+@app.route("/")
 def home():
-    return 'Hello, world!'
+    return "Hello, world!"
 
-@app.route('/get_flights')
+@app.route("/get_flights")
 def get_info_flights():
 
     params = {
-        'access_key':os.environ["CHAVE_API"],
+        "access_key":os.environ["CHAVE_API"],
     }
 
     if not request.args.get("iata_code"):
@@ -49,11 +49,27 @@ def get_info_flights():
     dep_params["dep_iata"] = request.args.get("iata_code")
     arr_params["arr_iata"] = request.args.get("iata_code")
     # voos partindo
-
     all_flights = external_requests.get_all_flights(dep_params)
 
     # voos chegando
-
     all_flights += external_requests.get_all_flights(arr_params)
+
+    # salvar os vôos registrados no PSQL
+    pgclient = postgres.PostgresDB()
+    if all_flights:
+        for data in all_flights:
+            flight = [
+                data["flight_date"],
+                data["flight"]["iata"],
+                data["flight_status"],
+                data["airline"]["name"],
+                data["departure"]["iata"],
+                data["departure"]["delay"],
+                data["arrival"]["iata"],
+                data["arrival"]["delay"],
+            ]
+            pgclient.insert_flight(flight)
+
+    pgclient.conn_close()
 
     return f"Teve {len(all_flights)} vôos registrados"

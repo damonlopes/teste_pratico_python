@@ -25,5 +25,11 @@ class PostgresDB():
         cur.execute(open("app/db/schema.sql", "r").read())
         self.conn.commit()
 
+    def insert_flight(self, flight):
+        insert_sql = f"INSERT INTO {os.environ["SCHEMA_DB"]}.{os.environ["TABLE_DB"]} (flight_date, flight_iata, flight_status, airline, dep_iata, dep_delay, arr_iata, arr_delay) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        cur = self.conn.cursor()
+        cur.execute(insert_sql, flight)
+        self.conn.commit()
+
     def conn_close(self):
         self.conn.close()
