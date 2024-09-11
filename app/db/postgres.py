@@ -31,5 +31,15 @@ class PostgresDB():
         cur.execute(insert_sql, flight)
         self.conn.commit()
 
+    def select_flights_date(self):
+        select_sql = f"SELECT * FROM {os.environ["SCHEMA_DB"]}.{os.environ["TABLE_DB"]}"
+        array_values = []
+
+        cur = self.conn.cursor()
+        cur.execute(select_sql, array_values)
+        self.conn.commit()
+        result = cur.fetchall()
+        return result
+
     def conn_close(self):
         self.conn.close()

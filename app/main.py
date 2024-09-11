@@ -1,6 +1,7 @@
 from flask import Flask, request, Response
 from dotenv import load_dotenv
 import requests
+import pandas
 import math
 import os
 
@@ -72,4 +73,13 @@ def get_info_flights():
 
     pgclient.conn_close()
 
-    return f"Teve {len(all_flights)} vôos registrados"
+    return f"Teve {len(all_flights)} vôos registrados referentes ao aeroporto de {request.args.get("iata_code")}"
+
+@app.route("/info_flights")
+def select_flights():
+    # flight_date = request.args.get("flight_date")
+    pgclient = postgres.PostgresDB()
+
+    all_flights = pgclient.select_flights_date()
+
+    return all_flights
