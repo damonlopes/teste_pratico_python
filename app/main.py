@@ -79,7 +79,6 @@ def get_info_flights():
 def select_flights():
     # flight_date = request.args.get("flight_date")
     pgclient = postgres.PostgresDB()
-
     all_flights = pgclient.select_flights_date()
 
     return all_flights

@@ -46,13 +46,13 @@ Repósitório com a finalidade de demonstrar as habilidades com Python com rela�
 4. Após instalar as bibliotecas, é necessário criar um arquivo _.env_ para salvar algumas variáveis necessárias para o projeto, que são a chave da API e as informações pra conectar no PostgreSQL. Um exemplo do que deve conter o _.env_ está a seguir:
 
 ```
-CHAVE_API = "INSIRA A CHAVE DE API AQUI NESSE ESPAÇO"
-HOST_DB = "Host PostgreSQL"
-DATABASE_DB = "Database PostgreSQL"
-PORT_DB = "Port PostgreSQL"
-USERNAME_DB = "Username PostgreSQL"
-PASSWORD_DB = "Password PostgreSQL"
-SCHEMA_DB = "Schema PostgreSQL"
+CHAVE_API = "Chave API"
+PG_HOST = "Host PostgreSQL"
+PG_DATABASE = "Database PostgreSQL"
+PG_PORT = "Port PostgreSQL"
+PG_USERNAME = "Username PostgreSQL"
+PG_PASSWORD = "Password PostgreSQL"
+PG_SCHEMA = "Schema PostgreSQL"
 ```
 
 É necessário substituir todas as variáveis, de acordo com a sua configuração local.
@@ -73,15 +73,34 @@ Ele vai inicializar a API, como já irá gerar a tabela para armazenar as inform
 
 `GET /get_flights`
 
-|Parâmetros|Tipo|Opcional|Descrição|Exemplo|
+Rota para obter os dados de vôos e salvar no banco de dados localmente
+
+- Parâmetros
+
+|Parâmetro|Tipo|Opcional|Descrição|Exemplo|
 |---|---|---|---|---|
 |iata_code|string| |Código IATA de aeroporto|CWB|
 |status|string| X |Status de vôos|scheduled|
 
-Exemplo de Requisição
+Para obter o código IATA, pode acessar o site da [IATA](https://www.iata.org/en/publications/directories/code-search/) para obter o código de algum aeroporto.
+Isso foi feito pois nos testes, eram muitos vôos registrados diariamente, então optou-se por limitar a pesquisa para um aeroporto.
 
-`/get_flights?iata_code=CWB&status=scheduled`
+- Exemplo de Requisição
+
+`GET /get_flights?iata_code=CWB&status=scheduled`
 
 ## Obter as informações de vôos no banco de dados
 
 `GET /info_flights`
+
+Rota para obter todos os dados salvos referentes a vôos.
+
+- Parâmetros
+
+|Parâmetro|Tipo|Opcional|Descrição|Exemplo|
+|---|---|---|---|---|
+|flight_date|date| X |Data do vôo|2024-09-01|
+
+- Exemplo de requisição
+
+`GET /info_flights?flight_date=2024-09-10`

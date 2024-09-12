@@ -8,11 +8,11 @@ class PostgresDB():
 
     def new_connection(self):
         conn = connect(
-            host = os.environ["HOST_DB"],
-            database = os.environ["DATABASE_DB"],
-            port = os.environ["PORT_DB"],
-            user = os.environ["USERNAME_DB"],
-            password = os.environ["PASSWORD_DB"],
+            host = os.environ["PG_HOST"],
+            database = os.environ["PG_DATABASE"],
+            port = os.environ["PG_PORT"],
+            user = os.environ["PG_USERNAME"],
+            password = os.environ["PG_PASSWORD"],
             keepalives = 1,
             keepalives_idle = 30,
             keepalives_interval = 10,
@@ -26,13 +26,13 @@ class PostgresDB():
         self.conn.commit()
 
     def insert_flight(self, flight):
-        insert_sql = f"INSERT INTO {os.environ["SCHEMA_DB"]}.flights (flight_date, flight_iata, flight_status, airline, dep_iata, dep_delay, arr_iata, arr_delay) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_sql = f"INSERT INTO {os.environ["PG_SCHEMA"]}.flights (flight_date, flight_iata, flight_status, airline, dep_iata, dep_delay, arr_iata, arr_delay) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
         cur = self.conn.cursor()
         cur.execute(insert_sql, flight)
         self.conn.commit()
 
     def select_flights_date(self):
-        select_sql = f"SELECT * FROM {os.environ["SCHEMA_DB"]}.flights"
+        select_sql = f"SELECT * FROM {os.environ["PG_SCHEMA"]}.flights"
         array_values = []
 
         cur = self.conn.cursor()
