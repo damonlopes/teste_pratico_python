@@ -16,6 +16,13 @@ Repósitório com a finalidade de demonstrar as habilidades com Python com rela�
 
 # Primeiros passos
 
+## Chave API
+
+1. Este projeto trabalha com a API do [AviationStack](https://aviationstack.com/). É necessário criar uma conta para poder gerar uma chave de API, que será utilizada.
+
+> [!NOTE]
+> A conta gratuita tem várias limitações. O projeto foi elaborado em cima dessa versão.
+
 ## Instalação
 
 1. Depois de clonar este projeto em sua máquina, crie um ambiente virtual para poder instalar todos as bibliotecas utilizadas no projeto. Isso é feito através do comando
@@ -36,25 +43,7 @@ Repósitório com a finalidade de demonstrar as habilidades com Python com rela�
 
 `pip install -r requirements.txt`
 
-4. Quando estiver pronto para executar o projeto, insira o comando:
-
-`flask -app app.main run`
-
-5. Quando encerrar o uso do programa, pode desativar o ambiente com o comando:
-
-`deactivate`
-
-
-## Chave API
-
-1. Este projeto trabalha com a API do [AviationStack](https://aviationstack.com/). É necessário criar uma conta para poder gerar uma chave de API, que será utilizada.
-
-> [!NOTE]
-> A conta gratuita tem várias limitações. O projeto foi elaborado em cima dessa versão.
-
-## Variáveis de ambiente
-
-1. Após criar a conta e obter a chave de API, o usuário precisa criar um arquivo _.env_ para armazenar as variáveis de ambiente necessárias para o projeto, que são a chave da API e as informações pra conectar no PostgreSQL. Um exemplo do que deve conter o _.env_ está a seguir:
+4. Após instalar as bibliotecas, é necessário criar um arquivo _.env_ para salvar algumas variáveis necessárias para o projeto, que são a chave da API e as informações pra conectar no PostgreSQL. Um exemplo do que deve conter o _.env_ está a seguir:
 
 ```
 CHAVE_API = "INSIRA A CHAVE DE API AQUI NESSE ESPAÇO"
@@ -67,6 +56,16 @@ SCHEMA_DB = "Schema PostgreSQL"
 ```
 
 É necessário substituir todas as variáveis, de acordo com a sua configuração local.
+
+4. Quando estiver pronto para executar o projeto, insira o comando:
+
+`flask -app app.main run`
+
+Ele vai inicializar a API, como já irá gerar a tabela para armazenar as informações necessárias.
+
+5. Quando encerrar o uso do programa, pode desativar o ambiente com o comando:
+
+`deactivate`
 
 # Rotas
 
