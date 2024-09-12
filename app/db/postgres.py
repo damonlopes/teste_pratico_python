@@ -26,13 +26,13 @@ class PostgresDB():
         self.conn.commit()
 
     def insert_flight(self, flight):
-        insert_sql = f"INSERT INTO {os.environ["SCHEMA_DB"]}.{os.environ["TABLE_DB"]} (flight_date, flight_iata, flight_status, airline, dep_iata, dep_delay, arr_iata, arr_delay) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        insert_sql = f"INSERT INTO {os.environ["SCHEMA_DB"]}.flights (flight_date, flight_iata, flight_status, airline, dep_iata, dep_delay, arr_iata, arr_delay) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
         cur = self.conn.cursor()
         cur.execute(insert_sql, flight)
         self.conn.commit()
 
     def select_flights_date(self):
-        select_sql = f"SELECT * FROM {os.environ["SCHEMA_DB"]}.{os.environ["TABLE_DB"]}"
+        select_sql = f"SELECT * FROM {os.environ["SCHEMA_DB"]}.flights"
         array_values = []
 
         cur = self.conn.cursor()
