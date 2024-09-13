@@ -60,7 +60,7 @@ PG_SCHEMA = "Schema PostgreSQL"
 
 4. Quando estiver pronto para executar o projeto, insira o comando:
 
-`flask -app app.main run`
+`flask --app app.main run`
 
 Ele vai inicializar a API, como já irá gerar a tabela para armazenar as informações necessárias.
 
