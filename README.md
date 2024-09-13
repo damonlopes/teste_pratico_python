@@ -12,6 +12,7 @@ Repósitório com a finalidade de demonstrar as habilidades com Python com rela�
 - flask
 - requests
 - psycopg2-binary
+- pytest
 - python-dotenv
 
 # Primeiros passos
@@ -104,3 +105,32 @@ Rota para obter todos os dados salvos referentes a vôos.
 - Exemplo de requisição
 
 `GET /info_flights?flight_date=2024-09-10`
+
+# Tabela do Banco de Dados
+
+Nome da tabela: flights
+|Nome Variável|Tipo|Chave Primária|Obrigatório|Descrição|
+|---|---|---|---|---|
+|id|int| X | X |ID de cada entrada na tabela|
+|flight_date|datetime|| X |Data de registro do vôo|
+|flight_iata|string|||Código IATA do vôo|
+|flight_status|string|||Status do vôo|
+|airplane|string|| X |Companhia Aérea|
+|dep_iata|string|| X |Código IATA de origem do vôo|
+|dep_delay|int|||Tempo de atraso de partida|
+|arr_iata|datetime|| X |Código IATA de destino do vôo|
+|dep_delay|int|||Tempo de atraso da chegada|
+
+# Análise de Dados
+
+A análise de dados foi feita de acordo com os dados obtidos no período da tarde do dia 12/09/2024, referente a todos os vôos do Aeroporto Internacional Afonso Pena (CWB). 
+
+A análise se encontra dentro da pasta _data-analysis_, onde foi utilizado a biblioteca _pandas_, dentro de um arquivo [notebook](data-analysis/analise-dados-aeroporto-cwb.ipynb). Foi salvo junto um arquivo [html](data-analysis/analise-dados-aeroporto-cwb.html) com o arquivo original da análise, e a [base de dados](data-analysis/info_flights.json) utilizada.
+
+# Testes
+
+Foi utilizado a biblioteca _pytest_ para poder executar os testes referentes à API.
+
+Para poder executar os testes localizados na pasta [tests](app/tests/), é só rodar o seguinte comando (com o ambiente virtual ativado):
+
+`python -m pytest`
