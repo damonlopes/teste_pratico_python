@@ -20,5 +20,7 @@ def get_all_flights(params:dict) -> list[dict]:
                 extra_api_result = requests.get(URL_API_FLIGHTS, params)
                 extra_api_response = extra_api_result.json()
                 all_flights += extra_api_response["data"]
-    
+    else:
+        all_flights = []
+        
     return all_flights
