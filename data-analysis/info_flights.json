@@ -1,0 +1,6832 @@
+[
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3612",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "AEP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR1229",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32001",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "AEP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33064",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6040",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3017",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4965",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3018",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 11,
+    "arr_iata": "GIG",
+    "dep_delay": 29,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5296",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7658",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6357",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7782",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7176",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3716",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9399",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31761",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4317",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31785",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8478",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3483",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 1,
+    "arr_iata": "GIG",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32011",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 3,
+    "arr_iata": "BSB",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4699",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6359",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5798",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 10,
+    "arr_iata": "CAC",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5094",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3525",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CAC",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5096",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 10,
+    "arr_iata": "CAC",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33668",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC6516",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CAC",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33669",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 7,
+    "arr_iata": "CGB",
+    "dep_delay": 19,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4156",
+    "flight_status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 32,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7373",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4162",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": 1,
+    "arr_iata": "GIG",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3682",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4519",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1910",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5037",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": 14,
+    "arr_iata": "GRU",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4349",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6019",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7533",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6021",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4475",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6033",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4058",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6047",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6119",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6117",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6013",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7518",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "British Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "BA7646",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 17,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7538",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 32,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6234",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31103",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Avianca Cargo",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QT842",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31105",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3610",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31107",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6124",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 17,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31117",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7030",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31119",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": 1,
+    "arr_iata": "GIG",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9395",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31121",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3680",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31131",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 32,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5289",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31137",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC9807",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3057",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7652",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3059",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 1,
+    "arr_iata": "GIG",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4078",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 10,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3063",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": 11,
+    "arr_iata": "GIG",
+    "dep_delay": 29,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6540",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3065",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7505",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3069",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8517",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3071",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8015",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 27,
+    "arr_iata": "CGH",
+    "dep_delay": 46,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3193",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 14,
+    "arr_iata": "GRU",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2818",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3885",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4380",
+    "flight_status": "active"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4715",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4339",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7531",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CNF",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2952",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2605",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 3,
+    "arr_iata": "CNF",
+    "dep_delay": 15,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4060",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 11,
+    "arr_iata": "CNF",
+    "dep_delay": 20,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4542",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6537",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 11,
+    "arr_iata": "CNF",
+    "dep_delay": 20,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5282",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3804",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2785",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4661",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 32,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4077",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4639",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 11,
+    "arr_iata": "GIG",
+    "dep_delay": 29,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4209",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4609",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK7209",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1247",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": 14,
+    "arr_iata": "GRU",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1259",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1264",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1285",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4113",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4115",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31149",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31175",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31183",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7002",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7115",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Jet Linx Aviation",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "JL5529",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9267",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9269",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3283",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3285",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3287",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3289",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3291",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4791",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Lufthansa",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LH4687",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SWISS",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LX9709",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3954",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3955",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR4849",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5124",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5243",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5244",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5280",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR8413",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "South African Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "SA2333",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "South African Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "SA2334",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK8418",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": 31,
+    "arr_iata": "GRU",
+    "dep_delay": 51,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9026",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9180",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4086",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4088",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4131",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5246",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 14,
+    "arr_iata": "GRU",
+    "dep_delay": 28,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5295",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5369",
+    "flight_status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7330",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7343",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2376",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2696",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2898",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Virgin Atlantic",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "VS7820",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2600",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 18,
+    "arr_iata": "IGU",
+    "dep_delay": 40,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4389",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33670",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 18,
+    "arr_iata": "IGU",
+    "dep_delay": 40,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33673",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3481",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "LDB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4192",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "LDB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4756",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "MGF",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4190",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "MGF",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4425",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "PTO",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2702",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "PTO",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33638",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "SCL",
+    "dep_delay": 10,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6007",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "SCL",
+    "dep_delay": 10,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA782",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "TEC",
+    "dep_delay": 100,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5444",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2753",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2816",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2832",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2862",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2966",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2973",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4020",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4031",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4206",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4315",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4805",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Avianca Cargo",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QT842",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": 2,
+    "arr_iata": "AEP",
+    "dep_delay": 26,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR1227",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 2,
+    "arr_iata": "AEP",
+    "dep_delay": 26,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33064",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3017",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3018",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7658",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7782",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3716",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31761",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31785",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 2,
+    "arr_iata": "BSB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3483",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4515",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "BSB",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5798",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CAC",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5096",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CAC",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33669",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGB",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4162",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4519",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 19,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5037",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6019",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6021",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6033",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6047",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6117",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7518",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7538",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31103",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31105",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31107",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31117",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31119",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 40,
+    "arr_iata": "CGH",
+    "dep_delay": 56,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31121",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31131",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31137",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3057",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3059",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3063",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 1,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3065",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 3,
+    "arr_iata": "CGH",
+    "dep_delay": 13,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3069",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3071",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CGH",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3193",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 5,
+    "arr_iata": "CGH",
+    "dep_delay": 15,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3885",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 3,
+    "arr_iata": "CGH",
+    "dep_delay": 21,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4715",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 11,
+    "arr_iata": "CGR",
+    "dep_delay": 24,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2677",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CNF",
+    "dep_delay": 3,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2952",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 1,
+    "arr_iata": "CNF",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4060",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 1,
+    "arr_iata": "CNF",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5192",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2785",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4077",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4209",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4602",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4643",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6537",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6540",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3680",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3682",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32001",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32011",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9395",
+    "flight_status": "active"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9399",
+    "flight_status": "active"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4058",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4078",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5289",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5296",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "GIG",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7373",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7652",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC6516",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC9807",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2605",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2818",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4475",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4965",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1910",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8015",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8478",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 11,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8517",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7505",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7531",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7533",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4317",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4339",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4349",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4380",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4612",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4639",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4661",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "British Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "BA7646",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3525",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3804",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7030",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7176",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6040",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 11,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6119",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6124",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6234",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6357",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6359",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3610",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3612",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK7209",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1247",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1259",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1285",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4113",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4115",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31149",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31175",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31183",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7002",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 22,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7115",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Jet Linx Aviation",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "JL5529",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9267",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9269",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3283",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 22,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3285",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3287",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3289",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3291",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 11,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4791",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 26,
+    "arr_iata": "GRU",
+    "dep_delay": 29,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA9421",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Lufthansa",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LH4687",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SWISS",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LX9709",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3954",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 22,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3955",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR4832",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR4849",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5124",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 2,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5243",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 22,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5244",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5280",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 11,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR8413",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "South African Airways",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "SA2334",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK8418",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": 9,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9026",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9180",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4086",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4088",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4131",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5246",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 7,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5295",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5369",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": 4,
+    "arr_iata": "GRU",
+    "dep_delay": 25,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7327",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": 30,
+    "arr_iata": "GRU",
+    "dep_delay": 30,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7343",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2376",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2696",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 4,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2898",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Virgin Atlantic",
+    "arr_delay": null,
+    "arr_iata": "GRU",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "VS7820",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2600",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4233",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4389",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33670",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": 9,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33671",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33673",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "IGU",
+    "dep_delay": 14,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3481",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "LDB",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4192",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "LDB",
+    "dep_delay": 12,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4756",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "MGF",
+    "dep_delay": 6,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4190",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "MGF",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4425",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "MVD",
+    "dep_delay": 15,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD8724",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "PTO",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2702",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "PTO",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33638",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "SCL",
+    "dep_delay": 16,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6007",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "SCL",
+    "dep_delay": 16,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6376",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "SCL",
+    "dep_delay": 16,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA782",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Cargolux",
+    "arr_delay": null,
+    "arr_iata": "UIO",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CV6822",
+    "flight_status": "unknown"
+  },
+  {
+    "airline": "Cargolux",
+    "arr_delay": 123,
+    "arr_iata": "UIO",
+    "dep_delay": 159,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CV6823",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "UMU",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5415",
+    "flight_status": "cancelled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "URG",
+    "dep_delay": 20,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4592",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 8,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2753",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 25,
+    "arr_iata": "VCP",
+    "dep_delay": 44,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2832",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 21,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2862",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2966",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2973",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 11,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4020",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4031",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4206",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": 5,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4315",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "VCP",
+    "dep_delay": null,
+    "dep_iata": "CWB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4805",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Cargo Chile",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "DSS",
+    "flight_date": "Fri, 13 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UC1514",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Lufthansa Cargo",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "FRA",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "GEC8254",
+    "flight_status": "active"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4005",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9386",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1976",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6034",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4030",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31784",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4077",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7659",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3004",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32016",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4832",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31130",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3072",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 16,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3774",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "LDB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4757",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2897",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2815",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6028",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31126",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3064",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2377",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4141",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6124",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3633",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4681",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7534",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC9810",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7333",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4362",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 13,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6286",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": 21,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9179",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6504",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31120",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7696",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3070",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4104",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33675",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "CNF",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2795",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4993",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 22,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4550",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4390",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31128",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "MGF",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2762",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CAC",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2725",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CAC",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33653",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Lufthansa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "FRA",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LH8254",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4086",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 100,
+    "dep_iata": "TEC",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5446",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5154",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 19,
+    "dep_iata": "SCL",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA783",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 19,
+    "dep_iata": "SCL",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6244",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4546",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2972",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 33,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3068",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 22,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3482",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3288",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31114",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 4,
+    "arr_iata": "CWB",
+    "dep_delay": 22,
+    "dep_iata": "CAC",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2969",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 4,
+    "arr_iata": "CWB",
+    "dep_delay": 22,
+    "dep_iata": "CAC",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33654",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "PTO",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2703",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "PTO",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33647",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2915",
+    "flight_status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7351",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6529",
+    "flight_status": "active"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4308",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC6517",
+    "flight_status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": 14,
+    "arr_iata": "CWB",
+    "dep_delay": 35,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7379",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 14,
+    "arr_iata": "CWB",
+    "dep_delay": 35,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5351",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": 14,
+    "arr_iata": "CWB",
+    "dep_delay": 35,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6543",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "AEP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR1228",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "AEP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33065",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 17,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6024",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6237",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": 19,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5127",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": 19,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7016",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 19,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL7371",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Cargo Chile",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 455,
+    "dep_iata": "MIA",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UC1825",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 30,
+    "arr_iata": "CWB",
+    "dep_delay": 62,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31106",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": 30,
+    "arr_iata": "CWB",
+    "dep_delay": 62,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7741",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4830",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2784",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 36,
+    "arr_iata": "CWB",
+    "dep_delay": 49,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3066",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 18,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6022",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 10,
+    "arr_iata": "CWB",
+    "dep_delay": 23,
+    "dep_iata": "CGB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4149",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 14,
+    "arr_iata": "CWB",
+    "dep_delay": 35,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2982",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 19,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3286",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3062",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3020",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 23,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31104",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2862",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7349",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5166",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7083",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6513",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4582",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2697",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4062",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9262",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4156",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3611",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6122",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3541",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4627",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7484",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8016",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1999",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7710",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2621",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4380",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33677",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "LDB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4191",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3060",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6020",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Virgin Atlantic",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "VS7805",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3953",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SWISS",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LX9708",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Lufthansa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LH4686",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Jet Linx Aviation",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "JL5528",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7118",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6023",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "British Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "BA7647",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 24,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4826",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31122",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 2,
+    "arr_iata": "CWB",
+    "dep_delay": 8,
+    "dep_iata": "MGF",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4416",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31756",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3699",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7783",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3011",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 16,
+    "arr_iata": "CWB",
+    "dep_delay": 38,
+    "dep_iata": "BSB",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4698",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 22,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31102",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 17,
+    "arr_iata": "CWB",
+    "dep_delay": 29,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4208",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 17,
+    "arr_iata": "CWB",
+    "dep_delay": 29,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5337",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": 17,
+    "arr_iata": "CWB",
+    "dep_delay": 29,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6542",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32010",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4212",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3679",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3671",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4684",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "GIG",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7735",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3284",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 5,
+    "arr_iata": "CWB",
+    "dep_delay": 18,
+    "dep_iata": "CNF",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2857",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3058",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2794",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31100",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 21,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7539",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 30,
+    "arr_iata": "CWB",
+    "dep_delay": 57,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6036",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 3,
+    "arr_iata": "CWB",
+    "dep_delay": 30,
+    "dep_iata": "CGH",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3056",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4147",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 1,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5113",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 1,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3952",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Avianca Cargo",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "MIA",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QT843",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 5,
+    "dep_iata": "VCP",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4807",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4130",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33676",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "CGR",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4343",
+    "flight_status": "diverted"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 1,
+    "dep_iata": "GRU",
+    "flight_date": "Thu, 12 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3282",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3004",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6118",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 7,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "SCL",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6244",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4249",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK8419",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9260",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4124",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3609",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4630",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7532",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF2036",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9025",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5149",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6714",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 13,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2865",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 2,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "CNF",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4061",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": 2,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "CNF",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5067",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5169",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET1253",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK7208",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6528",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4342",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31148",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4708",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7333",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4100",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3681",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1976",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 51,
+    "arr_iata": "CWB",
+    "dep_delay": 70,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4030",
+    "flight_status": "scheduled"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 15,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32016",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31784",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4077",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7659",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3002",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 5,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6034",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31130",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 8,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3072",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "MGF",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2804",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2897",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 17,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6028",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 4,
+    "dep_iata": "LDB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4757",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31126",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 4,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3064",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "UMU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD5416",
+    "flight_status": "cancelled"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2377",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4141",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6124",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3633",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4681",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7534",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC9810",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4362",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4104",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33675",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4627",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CAC",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2725",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CAC",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33653",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 13,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6504",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 38,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31120",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 38,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7696",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 17,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3070",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 8,
+    "arr_iata": "CWB",
+    "dep_delay": 10,
+    "dep_iata": "CGB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4086",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 5,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4993",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "URG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4593",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4832",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA4550",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4390",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31128",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3679",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5154",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 7,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "SCL",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA783",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 7,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "SCL",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6096",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3288",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 3,
+    "arr_iata": "CWB",
+    "dep_delay": 8,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3482",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 13,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3068",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4546",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2972",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "MVD",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD8725",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 5,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6024",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 18,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31114",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2915",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7351",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6529",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4308",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Canada",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AC6517",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "PTO",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2703",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "PTO",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33647",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7379",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5351",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6543",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 47,
+    "arr_iata": "CWB",
+    "dep_delay": 76,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31106",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": 47,
+    "arr_iata": "CWB",
+    "dep_delay": 76,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7741",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": 9,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5127",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": 9,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7016",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 9,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL7371",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4830",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3066",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6022",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2784",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 9,
+    "arr_iata": "CWB",
+    "dep_delay": 28,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3286",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2982",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3062",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 12,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3020",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 2,
+    "arr_iata": "CWB",
+    "dep_delay": 30,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31104",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2697",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4062",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9262",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "ET4156",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Emirates",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "EK3611",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAAG",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DT6122",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3541",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4621",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7484",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aeromexico",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AM8016",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air France",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AF1999",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7710",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Air Europa",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UX2862",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "UA7349",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5166",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Turkish Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 2,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TK9179",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM7083",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6513",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4582",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 2,
+    "arr_iata": "CWB",
+    "dep_delay": 27,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3060",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 14,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6020",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 13,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2621",
+    "flight_status": "active"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 4,
+    "dep_iata": "MGF",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4416",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "LDB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4191",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4380",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33677",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6023",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Virgin Atlantic",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "VS7805",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3953",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SWISS",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LX9708",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Lufthansa",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LH4686",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Jet Linx Aviation",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "JL5528",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Iberia",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "IB7118",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "DL6001",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "British Airways",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "BA7647",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4826",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 20,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31122",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31102",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 14,
+    "arr_iata": "CWB",
+    "dep_delay": 32,
+    "dep_iata": "CNF",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2857",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4208",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP5337",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Alitalia",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 3,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AZ6542",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G32010",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "TAP Air Portugal",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "TP4212",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "KLM",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "KL9386",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3671",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "SA AVIANCA",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AV4684",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "American Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "GIG",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AA7735",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 1,
+    "arr_iata": "CWB",
+    "dep_delay": 24,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3284",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31756",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Copa Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CM3699",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7783",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "BSB",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD3011",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": 32,
+    "arr_iata": "CWB",
+    "dep_delay": 52,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD2794",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": 12,
+    "arr_iata": "CWB",
+    "dep_delay": 37,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3058",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 7,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4147",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G31100",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": 6,
+    "arr_iata": "CWB",
+    "dep_delay": 34,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR7539",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD6036",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Cargolux",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CV6823",
+    "flight_status": "unknown"
+  },
+  {
+    "airline": "Cargolux",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "CV6822",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 11,
+    "dep_iata": "CGH",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3056",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "AEP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AR1226",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 9,
+    "dep_iata": "AEP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33065",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qatar Airways",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QR5113",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Qantas",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "QF3952",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 5,
+    "dep_iata": "VCP",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4807",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4130",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Gol",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "IGU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "G33676",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "Azul",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": null,
+    "dep_iata": "CGR",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "AD4343",
+    "flight_status": "landed"
+  },
+  {
+    "airline": "LATAM Airlines",
+    "arr_delay": null,
+    "arr_iata": "CWB",
+    "dep_delay": 6,
+    "dep_iata": "GRU",
+    "flight_date": "Wed, 11 Sep 2024 00:00:00 GMT",
+    "flight_iata": "LA3282",
+    "flight_status": "landed"
+  }
+]
