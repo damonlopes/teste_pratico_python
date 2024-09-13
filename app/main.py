@@ -29,24 +29,21 @@ def get_info_flights():
 
     # Verifica se na requisição consta o código IATA
     if not request.args.get("iata_code"):
-        print(request.args.get("iata_code"))
-        response = Response(
+        return Response(
             status = 400,
             response = "Missing IATA code"
         )
-        return response
 
     # Se requisitado, verifica se o valor é válido e gera o parâmetro com o status de vôo
     if request.args.get("status") is not None:
         if request.args.get("status") in list_status:        
             params["flight_status"] = request.args.get("status")
         else:
-            response = Response(
+            return Response(
                 status = 400,
                 response = "The possible status for flights are: scheduled, active, landed, cancelled, incident and diverted." 
             )
-            return response
-
+        
     # Cria dois grupos de parâmetros, e insere o código IATA (um para Partidas e outro para Chegadas)
     dep_params = params.copy()
     arr_params = params.copy()
@@ -54,9 +51,17 @@ def get_info_flights():
     arr_params["arr_iata"] = request.args.get("iata_code")
 
     # Requisições de vôos
-    all_flights = external_requests.get_all_flights(dep_params)
-    all_flights += external_requests.get_all_flights(arr_params)
+    status, dep_flights = external_requests.get_all_flights(dep_params)
 
+    if status == "failure":
+        return Response(
+            status = 400,
+            response = "Não foi possível completar a operação. Verificar se tem créditos disponíveis"
+        )
+    
+    status, arr_flights = external_requests.get_all_flights(arr_params)
+
+    all_flights = dep_flights + arr_flights
     # Salva os vôos obtidos no PostgreSQL
     if all_flights:
         pgclient = postgres.PostgresDB()
@@ -73,9 +78,17 @@ def get_info_flights():
             ]
             pgclient.insert_flight(flight)
         pgclient.conn_close()
+        # Retorna uma contagem com todos os vôos registrados no PostgreSQL
+        return Response(
+            status = 200,
+            response = f"Teve {len(all_flights)} vôos registrados referentes ao aeroporto de {request.args.get("iata_code")}"
+        )
+    else:
+        response = Response(
+            status = 200,
+            response = f"Teve 0 vôos registrados referentes ao aeroporto de {request.args.get("iata_code")}."
+        )
 
-    # Retorna uma contagem com todos os vôos registrados no PostgreSQL
-    return f"Teve {len(all_flights)} vôos registrados referentes ao aeroporto de {request.args.get("iata_code")}"
 
 @app.route("/info_flights")
 def select_flights():

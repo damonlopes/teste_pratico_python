@@ -22,7 +22,7 @@ class MockDB():
 
 def mock_function(*args, **kwargs):
     if "dep_iata" in args[0]:
-        return [{
+        return "success", [{
             "flight_date":"2019-02-01",
             "flight":{
                 "iata":"AAA00",
@@ -41,7 +41,7 @@ def mock_function(*args, **kwargs):
             },
         }]
     elif "arr_iata" in args[0]:
-        return [{
+        return "success", [{
             "flight_date":"2019-02-01",
             "flight":{
                 "iata":"AAA10",
