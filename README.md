@@ -108,6 +108,8 @@ Rota para obter todos os dados salvos referentes a vôos.
 
 # Tabela do Banco de Dados
 
+Origem: [schema.sql](app/db/schema.sql)
+
 Nome da tabela: flights
 |Nome Variável|Tipo|Chave Primária|Obrigatório|Descrição|
 |---|---|---|---|---|
